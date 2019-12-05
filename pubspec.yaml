@@ -1,0 +1,40 @@
+name: resume
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  url_launcher: ^5.2.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - asset/Profile.png
+    - asset/s1.png
+    - asset/s2.png
+    - asset/s3.png
+    - asset/s4.png
+    - asset/skill1.png
+    - asset/skill2.png
+    - asset/skill3.png
+    - asset/skill4.png
+    - asset/c1.png
+    - asset/c2.png
+    - asset/c3.png
+    - asset/c4.jpg
+    - asset/c5.png
+    - asset/c6.jpg
+    
+fonts:
+  - family: PatuaOne-Regular 
+    fonts:
+      - asset: asset\PatuaOne-Regular.ttf
+    
